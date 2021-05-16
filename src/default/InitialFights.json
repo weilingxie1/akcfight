@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "team1":{
+            "name":"A",
+            "color":"red"
+        },
+        "team2":{
+            "name":"B",
+            "color":"white"
+        },
+        "suburi":"",
+        "kihon":"",
+        "kata":""
+    },
+    {
+        "id": 2,
+        "team1":{
+            "name":"A",
+            "color":"red"
+        },
+        "team2":{
+            "name":"C",
+            "color":"white"
+        },
+        "suburi":"",
+        "kihon":"",
+        "kata":""
+    },
+    {
+        "id": 3,
+        "team1":{
+            "name":"B",
+            "color":"red"
+        },
+        "team2":{
+            "name":"C",
+            "color":"white"
+        },
+        "suburi":"",
+        "kihon":"",
+        "kata":""
+    },
+    {
+        "id": 4,
+        "team1":{
+            "name":"C",
+            "color":"red"
+        },
+        "team2":{
+            "name":"D",
+            "color":"white"
+        },
+        "suburi":"",
+        "kihon":"",
+        "kata":""
+    },
+    {
+        "id": 5,
+        "team1":{
+            "name":"B",
+            "color":"red"
+        },
+        "team2":{
+            "name":"D",
+            "color":"white"
+        },
+        "suburi":"",
+        "kihon":"",
+        "kata":""
+    }
+]
