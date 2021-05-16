@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/akcfight/static/css/main.22b6e383.chunk.css",
+    "main.js": "/akcfight/static/js/main.903bdf5c.chunk.js",
+    "main.js.map": "/akcfight/static/js/main.903bdf5c.chunk.js.map",
+    "runtime-main.js": "/akcfight/static/js/runtime-main.79236830.js",
+    "runtime-main.js.map": "/akcfight/static/js/runtime-main.79236830.js.map",
+    "static/js/2.00604dcf.chunk.js": "/akcfight/static/js/2.00604dcf.chunk.js",
+    "static/js/2.00604dcf.chunk.js.map": "/akcfight/static/js/2.00604dcf.chunk.js.map",
+    "index.html": "/akcfight/index.html",
+    "static/css/main.22b6e383.chunk.css.map": "/akcfight/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.00604dcf.chunk.js.LICENSE.txt": "/akcfight/static/js/2.00604dcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79236830.js",
+    "static/js/2.00604dcf.chunk.js",
+    "static/css/main.22b6e383.chunk.css",
+    "static/js/main.903bdf5c.chunk.js"
+  ]
+}
